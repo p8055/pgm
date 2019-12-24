@@ -6,5 +6,7 @@ public static void main(String args[])
   }
 String
 ineger
+map
+class
   
 final copy
